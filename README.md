@@ -1,0 +1,1 @@
+This repo is for GameGG project and GameGG DataPlatform.
